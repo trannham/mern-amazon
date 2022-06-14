@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/trannham/mern-amazon"
   },
-  "author": "",
+  "author": "trannham",
   "license": "ISC"
 }
