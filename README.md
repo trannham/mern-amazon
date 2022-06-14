@@ -4,7 +4,7 @@
 
 ## Demo Website
 
-- 👉 Heroku : Check it here[url](https://mern-amz-app.herokuapp.com/)
+- 👉 Heroku : [Check it here](https://mern-amz-app.herokuapp.com/)
 
 ## Current features:
 
